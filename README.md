@@ -4,5 +4,7 @@ This project is to create a starter kit (biolerplate) to build a web application
 Following is high level list:-
 
 nodejs
-express
+expressjs
+express generator for directory structure
 bootstrap
+handlebars (hbs) viewengine

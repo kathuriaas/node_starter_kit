@@ -1,0 +1,28 @@
+{
+  "name": "node_starter_kit",
+  "version": "1.0.0",
+  "description": "This project is to create a starter kit (biolerplate) to build a web application using multiple nodejs modules.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathuriaas/node_starter_kit.git"
+  },
+  "author": "Ashish Kathuria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathuriaas/node_starter_kit/issues"
+  },
+  "homepage": "https://github.com/kathuriaas/node_starter_kit#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}
